@@ -1,0 +1,13 @@
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\url.txt
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\ytj.fi Company Parser.exe.config
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\ytj.fi Company Parser.exe
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\ytj.fi Company Parser.pdb
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\obj\Debug\ytj.fi Company Parser.csprojAssemblyReference.cache
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\obj\Debug\ytj.fi Company Parser.exe
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\obj\Debug\ytj.fi Company Parser.pdb
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\WebDriver.dll
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\WebDriver.xml
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\obj\Debug\ytj.fi Company Parser.csproj.CopyComplete
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\KBCsv.dll
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\KBCsv.xml
+C:\Users\WyomingCPA\source\repos\ytj.fi Company Parser\bin\Debug\Result.csv
